@@ -5,7 +5,7 @@ int main()
     int rows, cols, i, j;
 
     
-    scanf("%d", &rows);
+    scanf("%d", &rows); /*Get user input*/
     cols = rows;
 
     for(i=1; i<=rows; i++)
